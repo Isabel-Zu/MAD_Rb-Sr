@@ -1,6 +1,6 @@
 # MADRb-Sr
 
-Note: This program i only working on windows
+Note: This program works only on windows (no mac or linux)
 
 step 1 download MATLAB Runtime Version 2020b https://au.mathworks.com/products/compiler/matlab-runtime.html \
 step 2 download and execute the MAD_RB_Sr_Test.exe file \
